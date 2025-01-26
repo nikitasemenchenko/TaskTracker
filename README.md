@@ -46,6 +46,10 @@ The application is built using MVVM (Model-View-ViewModel) principles:
 - Automatic sorting by due date
 - Tasks without due dates appear at the end of the list
 
+## 📸 Screenshots  
+
+![App Screenshot](https://github.com/nikitasemenchenko/TaskTracker/blob/assets/Screenshot.png)  
+
 ## Installation
 
 1. Clone the repository:
