@@ -53,11 +53,12 @@ The application is built using MVVM (Model-View-ViewModel) principles:
 ## Installation
 
 1. Clone the repository:
+   ```bash
     git clone [https://github.com/yourusername/tasktracker.git](https://github.com/nikitasemenchenko/TaskTracker.git)
+    ```
+3. Open project in Android Studio
 
-2. Open project in Android Studio
-
-3. Run the app on an emulator or real device
+4. Run the app on an emulator or real device
 
 ## Requirements
 
