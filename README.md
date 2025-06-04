@@ -23,8 +23,7 @@ TaskTracker is a modern Android task management application built with Jetpack C
 
 ## Installation
 
-**You can download the app from the link** [👉 **App link**]https://github.com/nikitasemenchenko/TaskTracker/raw/refs/heads/assets/app/release/TaskTracker.apk) 
-
+[👉 **You can download the app from the link**](https://github.com/nikitasemenchenko/TaskTracker/raw/refs/heads/assets/app/release/TaskTracker.apk) 
 **Or:**
 
 1. Clone the repository:
