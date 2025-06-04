@@ -7,7 +7,6 @@ TaskTracker is a modern Android task management application built with Jetpack C
 - 📝 Create, edit and delete tasks
 - ✅ Mark tasks as completed
 - 📅 Set due dates with time
-- 🔍 Multi-select tasks for bulk deletion
 - 💾 Local data storage
 - 🌓 Light and dark theme support
 - 📱 Modern Material Design 3
@@ -17,40 +16,16 @@ TaskTracker is a modern Android task management application built with Jetpack C
 - **Kotlin** - primary programming language
 - **Jetpack Compose** - modern toolkit for building native UI
 - **Material Design 3** - Google's design system
-- **ViewModel** - for managing UI data
-- **Kotlin Coroutines & Flow** - for asynchronous operations
-- **JSON** - for data storage
-
-## Architecture
-
-The application is built using MVVM (Model-View-ViewModel) principles:
-- **Model**: Represented by the `Task` class and data storage logic
-- **View**: UI components built with Jetpack Compose
-- **ViewModel**: `TaskViewModel` for state management and business logic
-
-## Functionality
-
-### Task Management
-- Create new tasks with title and description
-- Set due dates
-- Mark tasks as completed
-- Edit existing tasks
-- Delete tasks
-
-### Multi-select
-- Long press activates selection mode
-- Ability to select multiple tasks
-- Bulk delete selected tasks
-
-### Sorting
-- Automatic sorting by due date
-- Tasks without due dates appear at the end of the list
 
 ## 📸 Screenshots  
 
 ![App Screenshot](https://github.com/nikitasemenchenko/TaskTracker/blob/assets/Screenshot.png)  
 
 ## Installation
+
+**You can download the app from the link** ![App link](https://github.com/nikitasemenchenko/TaskTracker/blob/assets/app/release/TaskTracker.apk) 
+
+**Or:**
 
 1. Clone the repository:
    ```bash
